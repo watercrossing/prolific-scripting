@@ -1,0 +1,8 @@
+[tool.black]
+line-length = 153
+target-version = ['py311']
+
+[tool.isort]
+line_length = 153
+float_to_top = true
+py_version = 311
